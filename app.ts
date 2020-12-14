@@ -8,3 +8,7 @@ const number2 = 2.9
 const result = add(number1, number2)
 
 console.log(result)
+
+let testGitAccoutn = 'testGitAccout'
+
+console.log(testGitAccoutn);
